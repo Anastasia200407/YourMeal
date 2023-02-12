@@ -49,7 +49,7 @@
 }
 
 .navigation__button_burger {
-  background-image: url(img/burger.png);
+  background-image: url(../img/burger.png);
 }
 
 .navigation__button_snack {
